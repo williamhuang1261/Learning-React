@@ -9,6 +9,10 @@ This repository contains a React application built with Vite, developed while fo
 - Modern styling techniques
 - Component architecture best practices
 
+Course: React 18 for Beginners (https://codewithmosh.com/p/ultimate-react-part1)
+
+---
+
 ## Français
 Ce dépôt contient une application React construite avec Vite, développée en suivant le cours en ligne de Code with Mosh. Il sert d'environnement d'apprentissage pratique pour le développement React moderne.
 
@@ -17,3 +21,5 @@ Ce dépôt contient une application React construite avec Vite, développée en 
 - Intégration de services HTTP avec Axios
 - Techniques de style modernes
 - Meilleures pratiques d'architecture des composants
+
+Cours: React 18 for Beginners (https://codewithmosh.com/p/ultimate-react-part1)
