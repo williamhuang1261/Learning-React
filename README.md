@@ -12,7 +12,6 @@ This repository contains a React application built with Vite, developed while fo
 Course: React 18 for Beginners (https://codewithmosh.com/p/ultimate-react-part1)
 
 ---
-
 ## Français
 Ce dépôt contient une application React construite avec Vite, développée en suivant le cours en ligne de Code with Mosh. Il sert d'environnement d'apprentissage pratique pour le développement React moderne.
 
